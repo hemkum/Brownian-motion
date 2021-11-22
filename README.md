@@ -9,3 +9,4 @@ Check the jupyter notebook for the code.
 Image D.png shows one such scenario.
 
 ![D.png](D.png)
+![D10.png] (D10.png)
