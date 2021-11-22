@@ -8,4 +8,4 @@ The  particle follows the Langevin equation mentioned in the above pdf. The rand
 Check the jupyter notebook for the code.
 Image D.png shows one such scenario.
 
-(D.png)
+![D.png](D.png)
