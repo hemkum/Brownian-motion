@@ -8,5 +8,8 @@ The  particle follows the Langevin equation mentioned in the above pdf. The rand
 Check the jupyter notebook for the code.
 Image D.png shows one such scenario.
 
+## Brownian motion with D=1
 ![D.png](D.png)
-![D10.png] (D10.png)
+
+## Brownian motion with D=2
+![D10.png](D10.png)
